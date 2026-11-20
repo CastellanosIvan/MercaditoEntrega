@@ -1,0 +1,6 @@
+{
+  "name": "Mercadito",
+  "description": "Comercio electrónico minimalista y elegante con catálogo curado, escáner de códigos de barra, cálculo de envío por GPS y gestión de pedidos.",
+  "requestFramePermissions": ["geolocation", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
